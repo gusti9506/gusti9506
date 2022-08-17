@@ -1,6 +1,6 @@
-<h1 align="center"><b>Hi 👋, I'm Gustavo!!</b></h1>
+<h1 align="center"><b>Hi 👋, I'm Gustavo:bangbang:</b></h1>
 
-<h2 align="center">Soy Tester QA Manual y Automation con Selenium WebDriver :bangbang:....</h2>
+<h2 align="center">Soy Tester QA Manual y Automation con Selenium WebDriver!!....</h2>
 
 <h3 align="center">:heavy_check_mark: Estoy en la busqueda de trabajo, considero que tengo Aptitud y Actitud para desenvolverme en el puesto!!</h3>
 <br>
@@ -8,13 +8,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gusti9506&label=Profile%20views&color=0e75b6&style=flat" alt="gusti9506" /> </p>
 <br>
 
-- 🔭 Tengo conocimientos de Desarrollo Web :arrow_right:  **HTML 5, CSS3 y Javascript.**
+- 🔭 Tengo conocimientos de Desarrollo Web :arrow_right:  **HTML 5, CSS3 y Javascript. :heavy_check_mark:**
 
-- 🌱 I’m currently learning :arrow_right:  **Data Science con Python en OCI y Oracle Analytics.**
+- 🌱 I’m currently learning :arrow_right:  **Data Science con Python en OCI y Oracle Analytics. :heavy_check_mark:**
 
-- 💬 Puedes preguntarme sobre -->  **Testing Manual y/o Automation, y tambien de Desarrollo Web.**
+- 💬 Puedes preguntarme sobre :arrow_right:  **Testing Manual y/o Automation, y tambien de Desarrollo Web. :heavy_check_mark:**
 
-- 📫 How to reach me -->  **gusti9506@gmail.com**
+- 📫 How to reach me :arrow_right:  **gusti9506@gmail.com**
 <br>
 <h3 align="left">Conectate conmigo :point_down:</h3>
 <p align="left">
