@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi 👋, I'm Gustavo:bangbang:</b></h1>
 
-<h2 align="center">Soy Tester QA Manual y Automation con Selenium WebDriver!!....</h2>
+<h2 align="center">Soy Tester QA Manual y Automation con Selenium WebDriver!!....:heart:</h2>
 
 <h3 align="center">:heavy_check_mark: Estoy en la busqueda de trabajo, considero que tengo Aptitud y Actitud para desenvolverme en el puesto!!</h3>
 <br>
@@ -14,7 +14,7 @@
 
 - 💬 Puedes preguntarme sobre :arrow_right:  **Testing Manual y/o Automation, y tambien de Desarrollo Web. :heavy_check_mark:**
 
-- 📫 How to reach me :arrow_right:  **gusti9506@gmail.com**
+- 📫 How to reach me :arrow_right:  **gusti9506@gmail.com :heavy_check_mark:**
 <br>
 <h3 align="left">Conectate conmigo :point_down:</h3>
 <p align="left">
