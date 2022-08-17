@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning  **Data Science con Python en OCI y Oracle Analytics.**
 
-- 💬 Puedes preguntarme sobre  **Testing Manual y/o Automation, y tambien de Desarrollo Web**
+- 💬 Puedes preguntarme sobre  ** Testing Manual y/o Automation, y tambien de Desarrollo Web.**
 
 - 📫 How to reach me  **gusti9506@gmail.com**
 <br>
