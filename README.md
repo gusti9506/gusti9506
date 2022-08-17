@@ -1,9 +1,10 @@
 <h1 align="center"><b>Hi 👋, I'm Gustavo!!</b></h1>
+<br>
 <h2 align="center">Soy Tester QA Manual y Automation con Selenium WebDriver....</h2>
 <h3 align="center">Estoy en la busqueda de trabajo, considero que tengo Aptitud y Actitud para desenvolverme en el puesto!!</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gusti9506&label=Profile%20views&color=0e75b6&style=flat" alt="gusti9506" /> </p>
-
+<br>
 - 🔭 Tengo conocimientos de Desarrollo Web **HTML 5, CSS3 y Javascript**
 
 - 🌱 I’m currently learning **Data Science con Python en OCI y Oracle Analytics.**
