@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/gustavo_lopez71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gustavo_lopez71" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gustavo-a-lopez-des" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-a-lopez-des" height="30" width="40" /></a>
-<a href="https://fb.com/gusti9506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gusti9506" height="30" width="40" /></a>
+<a href="https://fb.com/Gustavo A Lopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Gustavo A Lopez" height="30" width="40" /></a>
 <a href="https://instagram.com/gusti_9506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gusti_9506" height="30" width="40" /></a>
 </p>
 <br>
