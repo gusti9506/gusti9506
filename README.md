@@ -8,15 +8,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gusti9506&label=Profile%20views&color=0e75b6&style=flat" alt="gusti9506" /> </p>
 <br>
 
-- 🔭 Tengo conocimientos de Desarrollo Web -->  **HTML 5, CSS3 y Javascript.**
+- 🔭 Tengo conocimientos de Desarrollo Web :arrow_right:  **HTML 5, CSS3 y Javascript.**
 
-- 🌱 I’m currently learning -->  **Data Science con Python en OCI y Oracle Analytics.**
+- 🌱 I’m currently learning :arrow_right:  **Data Science con Python en OCI y Oracle Analytics.**
 
 - 💬 Puedes preguntarme sobre -->  **Testing Manual y/o Automation, y tambien de Desarrollo Web.**
 
 - 📫 How to reach me -->  **gusti9506@gmail.com**
 <br>
-<h3 align="left">Conectate conmigo :point_down::</h3>
+<h3 align="left">Conectate conmigo :point_down:</h3>
 <p align="left">
 <a href="https://twitter.com/gustavo_lopez71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gustavo_lopez71" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gustavo-a-lopez-des" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-a-lopez-des" height="30" width="40" /></a>
