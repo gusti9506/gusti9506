@@ -7,13 +7,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gusti9506&label=Profile%20views&color=0e75b6&style=flat" alt="gusti9506" /> </p>
 <br>
-- 🔭 Tengo conocimientos de Desarrollo Web **HTML 5, CSS3 y Javascript**
 
-- 🌱 I’m currently learning **Data Science con Python en OCI y Oracle Analytics.**
+- 🔭 Tengo conocimientos de Desarrollo Web  **HTML 5, CSS3 y Javascript.**
 
-- 💬 Puedes preguntarme sobre **Testing Manual y/o Automation, y tambien de Desarrollo Web.**
+- 🌱 I’m currently learning  **Data Science con Python en OCI y Oracle Analytics.**
 
-- 📫 How to reach me **gusti9506@gmail.com**
+- 💬 Puedes preguntarme sobre  **Testing Manual y/o Automation, y tambien de Desarrollo Web**
+
+- 📫 How to reach me  **gusti9506@gmail.com**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
