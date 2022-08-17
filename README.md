@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Gustavo!!</h1>
+<h1 align="center"><b>Hi 👋, I'm Gustavo!!</b></h1>
 <h2 align="center">Soy Tester QA Manual y Automation con Selenium WebDriver....</h2>
-<h2 align="center">Estoy en la busqueda de trabajo, considero que tengo Aptitud y Actitud para desenvolverme en el puesto!!</h2>
+<h3 align="center">Estoy en la busqueda de trabajo, considero que tengo Aptitud y Actitud para desenvolverme en el puesto!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gusti9506&label=Profile%20views&color=0e75b6&style=flat" alt="gusti9506" /> </p>
 
