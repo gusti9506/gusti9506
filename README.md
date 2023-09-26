@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi 👋, I'm Gustavo:bangbang:</b></h1>
 
-<h2 align="center">Soy QA Tester Manual y Automation con Selenium WebDriver!!....
+<h2 align="center">Soy QA Tester Manual y Automation con Selenium WebDriver, Serenity y Cucumber!!....
 Tambien estoy formado en MySQL Server 8.0:heart:</h2>
 
 <h3 align="center">:heavy_check_mark: Estoy en la busqueda de trabajo, considero que tengo Aptitud y Actitud para desenvolverme en alguna de estas formaciones!!</h3>
